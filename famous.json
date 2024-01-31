@@ -1,0 +1,221 @@
+{ 
+    "dwayne" : {
+        "full name" : "Dwayne Johnson",
+        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+        "born" : 1972,
+        "place of birth" : "Hayward, Callifornia",
+        "height_inches" : 77,
+        "author" : false,
+        "tv show" : null
+    },
+    "jenna" : {
+        "full name" : "Jenna Fischer",
+        "other names" : "Pam",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Jenna_Fischer",
+        "born" : 1974,
+        "place of birth" : "Forte Wayne, Indiana",
+        "height_inches" : 66,
+        "author" : false,
+        "tv show" : "The Office"
+    },
+    "kevin": {
+        "name" : "Kevin Hart",
+        "author" : false,
+        "tv show": "Shark Tank",
+        "born" : 1979,
+        "place of birth" : "Philadelphia, Pennsylvania, U.S.",
+        "children" : 4, 
+        "oscars" : null
+    },
+    "adele" : {
+        "name" : "Adele Laurie Blue Adkins",
+        "stage name" : "Adele",
+        "born" : 1988,
+        "place of birth" : "Tottenham, London, United Kingdom",
+        "occupation" : "singer-songwriter",
+        "greatest hits" : ["Chasing Pavements", "Rolling in the Deep", "Hello", "Easy on Me"],
+        "record sales" : 120000000,
+        "dancer" : false
+    },
+    "zendaya" : {
+        "name" : "Zendaya Maree Stoermer Coleman",
+        "actress" : true,
+        "age" : 25,
+        "place of birth" : "Oakland, California",
+        "current show" : "Euphoria",
+        "when started acting" : 14,
+        "big break" : "Shake It Up"
+    },
+    
+    
+    "Danny": {
+        "full name" : "Daniel Michael DeVito Jr",
+        "other names" : "Frank",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Danny_DeVito",
+        "born" : 1944,
+        "place of birth" : "Neptune Township, New Jersey",
+        "height_inches" : 58,
+        "tv shows" : ["Always Sunny in Philadelphia", "Taxi"],  
+        "Movies": ["One Flew Over the Cuckoo's Nest", "Junior", "Twin"],
+        "children": 4
+    },
+    
+    "chris": {
+        "full name": "Chris Evans",
+        "other names": ["Captain Acrylica", "Chris Jamal Evans", "Captain Little Ass"],
+        "wikipedia": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+        "born": 1981,
+        "place of birth": "Boston, Massachusetts",
+        "height_inches": 72,
+        "author": false,
+        "tv show": ["Opposite Sex", "Defending Jacob"]
+    },
+    
+    "michael": {
+        "full name": "Michael Jordan",
+        "other names": "GOAT",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Jordan",
+        "born": 1963,
+        "place of birth": "Brooklyn, NY",
+        "height_inches": 78,
+        "teams": ["Chicago Bulls", "Washington Wizards"],
+        "author": false,
+        "tv show": null
+
+    }, 
+   "dua" : {
+        "name" : "Dua Lipa",
+        "born" : 1995,
+        "place of birth" : "London, United Kingdom",
+        "occupation" : "singer-songwriter",
+        "albums" : ["Future Nostalgia", "Dua Lipa"],
+        "net worth" : 25000000,
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dua_Lipa"
+    },
+    
+    "tom": {
+        "full name": "Thomas Stanley Holland",
+        "other name": "Tom Holland",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tom_Holland",
+        "born": 1996,
+        "place of birth": "Kingston upon Thames, England",
+        "occupation": "Actor",
+        "movies": ["The Impossible", "Spider-man", "Avengers"]
+        } ,
+        
+    "emma" : {
+        "full name" : "Emma Rose Roberts",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Emma_Roberts",
+        "born" : 1991,
+        "place of birth" : "Rhinebeck, New York",
+        "height_inches" : 62,
+        "author" : false,
+        "tv show" : ["American Horror Story", "Scream Queens"]
+    },  
+            
+    "Adam" : {
+	"full name": "Adam Driver",
+	"other name": "Kylo Ren",
+	"wikipedia": "https://en.wikipedia.org/wiki/Adam_Driver",
+	"born": 1983,
+	"place of birth": "San Diego, California",
+	"college_attended": "Julliard",
+	"tv show": "Girls",
+	"SNL_appearance": true
+	},
+            
+    "watson" : {
+        "full name" : "Emma Charlotte Duerre Watson",
+        "place of birth" : "Paris, France", 
+        "age" : 31, 
+        "known for" : "Harry Potter Series", 
+        "university graduate" : true, 
+        "most recent film" : "Little Women",
+        "current tv show" : null
+    },
+            
+    "Kaka" : {
+        "Full name" : "Ricardo Dos Santos",
+        "Other name" : "Kaka",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Kak%C3%A1",
+        "born" : "1982",
+        "place of birth" : "Gama, Brazil",
+        "heigh_cm" : 186,
+        "position" : "Attacking midfielder",
+        "tv show" : "null"
+    },
+
+    "james" : {
+        "full name": "James Gandolfini",
+        "other names": "Tony Soprano",
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Gandolfini",
+        "born": 1961,
+        "death": 2013,
+        "place of birth": "Westwood, New Jersey",
+        "tv show": "The Sopranos",
+        "emmy winner": true
+     },
+
+    "joe" : {
+        "full name" : "Joseph Burrow",
+        "other names" : ["Joe Brrr", "Joey Franchise" ],
+        "wikipedia" : "https://https://en.wikipedia.org/wiki/Joe_Burrow",
+        "born" : 1996,
+        "place of birth" : "Athens, Ohio",
+        "height_inches" : 76,
+        "heisman trophy winner" : true,
+        "nfl team" : "Cincinnati Bengals"
+    } ,     
+
+   "taylor": {
+	"full name": "Taylor Alison Swift",
+	"other names": ["The Music Industry", "Ms.Swift"],
+	"wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+	"born": 1989,
+	"place of birth": "West Reading, Pennsylvania",
+	"height_inches": 71,
+	"grammys won": 11,
+	"song writer": true,
+	"albums": ["Taylor Swift", "Fearless (Taylor's Version)", "Speak Now", "Red (Taylor's Version)", "1989", "Reputation", "Lover", "Folklore", "Evermore"],
+	"tv show": "New Girl",
+	"author": null
+   } ,
+	
+    "Daniel" : {
+        "full name": "Daniel Radcliffe",
+        "other name": "Harry Potter",
+        "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Radcliffe",
+        "born": 1989,
+        "place of birth": "London, UK",
+        "height_inches": 65,
+        "tv show": null,
+        "SNL_appearance": true
+	},
+
+   "Donald": {
+        "full name": "Donald McKinley Glover Jr",
+        "other names": ["Childish Gambino", "Troy Barnes"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Donald_Glover",
+        "born" : 1983,
+        "place of birth" : "Edwards, California",
+        "musician" : true,
+        "grammys" : 5,
+        "albums": ["Camp", "Because the Internet", "Awaken, My Love!", "3.15.20"],
+        "actor" : true,
+        "comedian" : true
+   },
+  
+	"lebron" : { 
+        "full name" : "Lebron James", 
+        "other names" : ["Bron", "King James"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/LeBron_James",
+        "born" : 1984, 
+        "place of birth" : "Akron, Ohio", 
+        "height_inches" : 81, 
+        "author" : false, 
+        "basketball team" : "Los Angeles Lakers" 
+  }
+  
+}
+    
