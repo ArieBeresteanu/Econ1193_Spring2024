@@ -18,6 +18,16 @@
         "height_inches" : 66,
         "author" : false,
         "tv show" : "The Office"
-    }  
+    },
+   "hartman" : {
+          "name": "Phil Hartman",
+          "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
+          "height": "5ft 10in",
+          "alive": false,
+          "TV Shows": ["Saturday Night Live", "Newsradio", "The Simpsons"],
+          "Birthplace": "Canada",
+          "Birth Year": 1948,
+          "Characters": ["Troy McClure", "Lionel Hutz", "Bill McNeal"]
+    }
 }
     
