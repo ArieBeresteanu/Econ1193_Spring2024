@@ -28,6 +28,13 @@
           "Birthplace": "Canada",
           "Birth Year": 1948,
           "Characters": ["Troy McClure", "Lionel Hutz", "Bill McNeal"]
+    },
+     "kapranos": {
+        "full name" : "Alexander Paul Kapranos Huntley",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Alex_Kapranos",
+        "born" : 1972,
+        "place of birth" : " Almondsbury, South Gloucestershire, England",
+        "band" : "Franz Ferdinand",
+        "role" : ["lead singer","guitarist"]
     }
 }
-    
