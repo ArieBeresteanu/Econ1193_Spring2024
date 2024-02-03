@@ -1,43 +1,43 @@
-{
-    "dwayne": {
-        "full name": "Dwayne Johnson",
-        "other names": ["The Rock","Flex Kavana","Rocky Maiva"],
-        "wikipedia": "https://en.wikipedia.org/wiki/Dwayne_Johnson",
-        "born": 1972,
-        "place of birth": "Hayward, Callifornia",
-        "height_inches": 77,
-        "author": false,
-        "tv show": null
+{ 
+    "dwayne" : {
+        "full name" : "Dwayne Johnson",
+        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
+        "born" : 1972,
+        "place of birth" : "Hayward, Callifornia",
+        "height_inches" : 77,
+        "author" : false,
+        "tv show" : null
     },
-    "jenna": {
-        "full name": "Jenna Fischer",
-        "other names": "Pam",
-        "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Fischer",
-        "born": 1974,
-        "place of birth": "Forte Wayne, Indiana",
-        "height_inches": 66,
-        "author": false,
-        "tv show": "The Office"
+    "jenna" : {
+        "full name" : "Jenna Fischer",
+        "other names" : "Pam",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Jenna_Fischer",
+        "born" : 1974,
+        "place of birth" : "Forte Wayne, Indiana",
+        "height_inches" : 66,
+        "author" : false,
+        "tv show" : "The Office"
     },
-    "hartman": {
-        "name": "Phil Hartman",
-        "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
-        "height": "5ft 10in",
-        "alive": false,
-        "TV Shows": ["Saturday Night Live","Newsradio","The Simpsons"],
-        "Birthplace": "Canada",
-        "Birth Year": 1948,
-        "Characters": ["Troy McClure","Lionel Hutz","Bill McNeal"]
+   "hartman" : {
+          "name": "Phil Hartman",
+          "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
+          "height": "5ft 10in",
+          "alive": false,
+          "TV Shows": ["Saturday Night Live", "Newsradio", "The Simpsons"],
+          "Birthplace": "Canada",
+          "Birth Year": 1948,
+          "Characters": ["Troy McClure", "Lionel Hutz", "Bill McNeal"]
     },
-    "kapranos": {
-        "full name": "Alexander Paul Kapranos Huntley",
-        "wikipedia": "https://en.wikipedia.org/wiki/Alex_Kapranos",
-        "born": 1972,
-        "place of birth": " Almondsbury, South Gloucestershire, England",
-        "band": "Franz Ferdinand",
-        "role": ["lead singer","guitarist"]
+     "kapranos": {
+        "full name" : "Alexander Paul Kapranos Huntley",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Alex_Kapranos",
+        "born" : 1972,
+        "place of birth" : " Almondsbury, South Gloucestershire, England",
+        "band" : "Franz Ferdinand",
+        "role" : ["lead singer","guitarist"]
     },
-    "tatum": {
+        "tatum": {
         "full name": "Jayson Christopher Tatum",
         "wikipedia": "https://en.wikipedia.org/wiki/Jayson_Tatum",
         "birth year": 1998,
