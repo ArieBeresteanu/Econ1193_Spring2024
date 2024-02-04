@@ -36,5 +36,22 @@
         "place of birth" : " Almondsbury, South Gloucestershire, England",
         "band" : "Franz Ferdinand",
         "role" : ["lead singer","guitarist"]
+    },
+        "tatum": {
+        "full name": "Jayson Christopher Tatum",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jayson_Tatum",
+        "birth year": 1998,
+        "birth month": "March",
+        "teams": ["Chaminade College Preparatory School","Duke University","Boston Celtics"],
+        "points per game": {
+            "2017-18": 13.9,
+            "2018-19": 15.7,
+            "2019-20": 23.4,
+            "2020-21": 26.4,
+            "2021-22": 26.9,
+            "2022-23": 30.1,
+            "2023-24": 26.8
+        },
+        "active": true
     }
 }
