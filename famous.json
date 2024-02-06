@@ -102,5 +102,13 @@
                 "type": "fiction"
             }
         ]
+    }, 
+    "hamilton": {
+        "full name":"Sir Lewis Carl Davidson Hamilton",
+        "wikipedia":"https://en.wikipedia.org/wiki/Lewis_Hamilton",
+        "born": 1985,
+        "place of birth": "Stevenage, Hertfordshire",
+        "team": "Mercedes",
+        "championship wins": 7
     }
 }
