@@ -138,5 +138,15 @@
             "college": "King's College Cambridge"
         },
         "hobby": "FOREX Speculator"
-    } 
+    },
+    "Gadot" : {
+        "full name": "Gal Gador Varsano",
+        "description": "Israeli actress",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gal_Gadot",
+        "born": 1985,
+        "place of birth": "Petah Tikva, Israel",
+        "Tv shows and movies": "Wonder Woman, Saturday Night Live, Simpsons"
+        
+
+    }   
 }
