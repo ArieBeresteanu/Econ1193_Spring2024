@@ -110,5 +110,33 @@
         "place of birth": "Stevenage, Hertfordshire",
         "team": "Mercedes",
         "championship wins": 7
-    }
+    },
+    "keynes" : {
+        "full_name":"John Maynard Keynes, 1st Baron Keynes",
+        "description": "British Macro Economits",
+        "wikipedia":"https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+        "born": 1883,
+        "died": 1946,
+        "place_of_birth": "Cambridge, England",
+        "place_of_death": "Sussex, England",
+        "notable_publications": [
+            {
+                "title": "The Economic Consequences of the Peace",
+                "publication_date": "1919"
+            },
+            {
+                "title": "A Treatise on Money",
+                "publication_date": "1930"
+            },
+            {
+                "title": "The General Theory of Employment, Interest and Money",
+                "publication_date": "1936"
+            }
+        ],
+        "education": {
+            "high_school": "Eton College",
+            "college": "King's College Cambridge"
+        },
+        "hobby": "FOREX Speculator"
+    } 
 }
