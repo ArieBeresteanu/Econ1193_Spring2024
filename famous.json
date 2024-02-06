@@ -148,5 +148,28 @@
         "Tv shows and movies": "Wonder Woman, Saturday Night Live, Simpsons"
         
 
-    }   
+    },
+    "Messi" : {
+        "full name": "Lionel Andres Messi",
+        "description": "Argentine Soccer Player",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Messi",
+        "born": 1987,
+        "place of birth": "Rosario, Argentina",
+        "Career Clubs": [
+            {
+                "Club Name": "Barcelona",
+                "Years Played": "2003-2021"
+            },
+            {
+                "Club Name": "Paris Saint-Germain",
+                "Years Played": "2021-2023"
+            },
+            {
+                "Club Name": "Inter Miami",
+                "Years Played": "2023-current"
+            }
+        ]
+        
+
+    }
 }
