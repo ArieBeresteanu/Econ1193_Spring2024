@@ -297,4 +297,54 @@
         "band name": "The Beatles",
         "members": "Paul, John, George"
     }
-}
+},
+{
+    "gharrison": {
+        "full name": "George Harrison",
+        "nickname": "The Quiet Beatle",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Harrison",
+        "born": 1943,
+        "place of birth": "Liverpool, England",
+        "died": true,
+        "deathdate": 2001,
+        "instruments": [
+            "Guitar",
+            "Sitar"
+        ],
+        "groups": [
+            "The Beatles",
+            "Traveling Wilburys"
+        ],
+        "notable_songs": [
+            {
+                "title": "Run of the Mill",
+                "album": "All Things Must Pass",
+                "withgroup": false,
+                "group": null
+            },
+            {
+                "title": "I'd Have You Anytime",
+                "album": "All Things Must Pass",
+                "withgroup": false,
+                "group": null
+            }, 
+            {
+                "title": "Something",
+                "album": "Abbey Road",
+                "withgroup": true,
+                "group": "The Beatles"
+            },
+            {
+                "title": "Here Comes the Sun",
+                "album": "Abbey Road",
+                "withgroup": true,
+                "group": "The Beatles"
+            },
+            {
+                "title": "While My Guitar Gently Weeps",
+                "album": "The Beatles",
+                "withgroup": true,
+                "group": "The Beatles"
+            }
+        ]
+    }
