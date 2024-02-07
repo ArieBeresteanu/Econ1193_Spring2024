@@ -185,5 +185,19 @@
                 "Years Played": "2023-current"
             }
         ]
+    },
+    "clooney": {
+        "full name": "George Clooney",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_Clooney",
+        "born": 1961
+        "actor": true
+        "director": true
+        "movies": [
+            "Batman & Robin",
+            "Ocean's Eleven",
+            "Ocean's Twelve",
+            "Ocean's Thirteen"
+        ],
+        "awards": 67
     }
 }
