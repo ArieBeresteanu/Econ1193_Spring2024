@@ -200,6 +200,7 @@
         ],
         "awards": 67
     },
+  
     "swift": {
         "full name": "Taylor Swift",
         "description": "Singer-Songwriter",
@@ -283,5 +284,17 @@
             "folklore",
             "Midnights"
         ]
+},
+     "ringo": {
+        "full name": "Ringo Starr",
+        "other names": [
+            "Richard",
+            "Narrator"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr",
+        "born": 1940,
+        "place of birth": "Liverpool, England",
+        "band name": "The Beatles",
+        "members": "Paul, John, George"
     }
 }
