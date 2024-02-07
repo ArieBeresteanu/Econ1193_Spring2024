@@ -189,9 +189,9 @@
     "clooney": {
         "full name": "George Clooney",
         "wikipedia": "https://en.wikipedia.org/wiki/George_Clooney",
-        "born": 1961
-        "actor": true
-        "director": true
+        "born": 1961,
+        "actor": true,
+        "director": true,
         "movies": [
             "Batman & Robin",
             "Ocean's Eleven",
