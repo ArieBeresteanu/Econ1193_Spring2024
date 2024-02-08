@@ -23,7 +23,7 @@
         "author": false,
         "tv show": "The Office"
     },
-   "miranda": {
+    "miranda": {
         "full name": "Miranda Cosgrove",
         "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Cosgrove",
         "born": 1993,
@@ -111,19 +111,19 @@
                 "type": "fiction"
             }
         ]
-    }, 
+    },
     "hamilton": {
-        "full name":"Sir Lewis Carl Davidson Hamilton",
-        "wikipedia":"https://en.wikipedia.org/wiki/Lewis_Hamilton",
+        "full name": "Sir Lewis Carl Davidson Hamilton",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Hamilton",
         "born": 1985,
         "place of birth": "Stevenage, Hertfordshire",
         "team": "Mercedes",
         "championship wins": 7
     },
-    "keynes" : {
-        "full_name":"John Maynard Keynes, 1st Baron Keynes",
+    "keynes": {
+        "full_name": "John Maynard Keynes, 1st Baron Keynes",
         "description": "British Macro Economits",
-        "wikipedia":"https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+        "wikipedia": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
         "born": 1883,
         "died": 1946,
         "place_of_birth": "Cambridge, England",
@@ -148,17 +148,15 @@
         },
         "hobby": "FOREX Speculator"
     },
-    "Gadot" : {
+    "Gadot": {
         "full name": "Gal Gador Varsano",
         "description": "Israeli actress",
         "wikipedia": "https://en.wikipedia.org/wiki/Gal_Gadot",
         "born": 1985,
         "place of birth": "Petah Tikva, Israel",
         "Tv shows and movies": "Wonder Woman, Saturday Night Live, Simpsons"
-        
-
     },
-    "Messi" : {
+    "Messi": {
         "full name": "Lionel Andres Messi",
         "description": "Argentine Soccer Player",
         "wikipedia": "https://en.wikipedia.org/wiki/Lionel_Messi",
@@ -209,7 +207,6 @@
         ],
         "awards": 67
     },
-
     "Allen": {
         "full name": "Barry Allen",
         "alias": "The Flash",
@@ -227,11 +224,7 @@
                 "alias": "Zoom"
             }
         ]
-
     },
-
-
-  
     "swift": {
         "full name": "Taylor Swift",
         "description": "Singer-Songwriter",
@@ -315,8 +308,8 @@
             "folklore",
             "Midnights"
         ]
-},
-     "ringo": {
+    },
+    "ringo": {
         "full name": "Ringo Starr",
         "other names": [
             "Richard",
@@ -327,15 +320,24 @@
         "place of birth": "Liverpool, England",
         "band name": "The Beatles",
         "members": "Paul, John, George"
-        },
-        "jamesharrison" : {
-            "full name" : "James Henry Harrison Jr",
-            "other names" : ["Deebo", "Silverback"],
-            "wikipedia" : "https://en.wikipedia.org/wiki/James_Harrison_(American_football)",
-            "born" : 1978,
-            "place of birth" : "Akron, Ohio",
-            "height_inches" : 72,
-            "teams" : ["Kent State Golden Flashes" , "Pittsburgh Steelers"],
-            "acting" : ["SWAT" , "Heels"]
-        }
+    },
+    "jamesharrison": {
+        "full name": "James Henry Harrison Jr",
+        "other names": [
+            "Deebo",
+            "Silverback"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Harrison_(American_football)",
+        "born": 1978,
+        "place of birth": "Akron, Ohio",
+        "height_inches": 72,
+        "teams": [
+            "Kent State Golden Flashes",
+            "Pittsburgh Steelers"
+        ],
+        "acting": [
+            "SWAT",
+            "Heels"
+        ]
+    }
 }
