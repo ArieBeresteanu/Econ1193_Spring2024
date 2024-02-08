@@ -339,5 +339,13 @@
             "SWAT",
             "Heels"
         ]
+    },
+    "beyoncé": {
+        "full name" : "Beyoncé Giselle Knowles-Carter",
+        "wikipedia" : "https://en.wikipedia.org/wiki/Beyoncé",
+        "born" : 1981,
+        "place of birth" : "Houston, Texas",
+        "occupations" : ["singer", "songwriter", "producer", "director", "businesswoman", "dancer", "actress", "philantropist"],
+        "Spouse" : "Jay-Z"
     }
 }
