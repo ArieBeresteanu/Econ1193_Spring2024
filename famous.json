@@ -200,6 +200,7 @@
         ],
         "awards": 67
     },
+
     "Allen": {
         "full name": "Barry Allen",
         "alias": "The Flash",
@@ -217,5 +218,106 @@
                 "alias": "Zoom"
             }
         ]
+
+    },
+
+
+  
+    "swift": {
+        "full name": "Taylor Swift",
+        "description": "Singer-Songwriter",
+        "wikipedia": "https://en.wikipedia.org/wiki/Taylor_Swift",
+        "born": 1989,
+        "birth_month": "December",
+        "birth_day": 13,
+        "place of birth": "West Reading, PA",
+        "label": "Republic Records",
+        "albums": [
+            {
+                "Album Name": "Taylor Swift",
+                "Originally Released": 2006,
+                "Label": "Big Machine Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "Fearless",
+                "Originally Released": 2008,
+                "Label": "Big Machine Records",
+                "Rerecorded": true
+            },
+            {
+                "Album Name": "Speak Now",
+                "Originally Released": 2010,
+                "Label": "Big Machine Records",
+                "Rerecorded": true
+            },
+            {
+                "Album Name": "Red",
+                "Originally Released": 2012,
+                "Label": "Big Machine Records",
+                "Rerecorded": true
+            },
+            {
+                "Album Name": "1989",
+                "Originally Released": 2014,
+                "Label": "Big Machine Records",
+                "Rerecorded": true
+            },
+            {
+                "Album Name": "reputation",
+                "Originally Released": 2017,
+                "Label": "Big Machine Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "Lover",
+                "Originally Released": 2019,
+                "Label": "Republic Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "folklore",
+                "Originally Released": 2020,
+                "Label": "Republic Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "evermore",
+                "Originally Released": 2020,
+                "Label": "Republic Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "Midnights",
+                "Originally Released": 2022,
+                "Label": "Republic Records",
+                "Rerecorded": false
+            },
+            {
+                "Album Name": "The Tortured Poets Department",
+                "Originally Released": 2024,
+                "Label": "Republic Records",
+                "Rerecorded": false
+            }
+        ],
+        "AOTY": [
+            "Fearless",
+            "1989",
+            "folklore",
+            "Midnights"
+        ]
+},
+     "ringo": {
+        "full name": "Ringo Starr",
+        "other names": [
+            "Richard",
+            "Narrator"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Ringo_Starr",
+        "born": 1940,
+        "place of birth": "Liverpool, England",
+        "band name": "The Beatles",
+        "members": "Paul, John, George"
+
     }
 }
