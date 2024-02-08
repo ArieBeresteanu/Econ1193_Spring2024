@@ -23,6 +23,15 @@
         "author": false,
         "tv show": "The Office"
     },
+   "miranda": {
+        "full name": "Miranda Cosgrove",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miranda_Cosgrove",
+        "born": 1993,
+        "place of birth": "Los Angeles, California",
+        "height_inches": 66,
+        "author": false,
+        "tv show": "iCarly"
+    },
     "hartman": {
         "name": "Phil Hartman",
         "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
