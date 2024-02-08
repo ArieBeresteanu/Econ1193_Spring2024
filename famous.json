@@ -200,6 +200,28 @@
         ],
         "awards": 67
     },
+
+    "Allen": {
+        "full name": "Barry Allen",
+        "alias": "The Flash",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flash_(Barry_Allen)",
+        "superpower": "super speed",
+        "city": "Central City",
+        "spouse": "Iris West",
+        "rivals": [
+            {
+                "full name": "Eobard Thawne",
+                "alias": "The Reverse Flash"
+            },
+            {
+                "full name": "Hunter Zoloman",
+                "alias": "Zoom"
+            }
+        ]
+
+    },
+
+
   
     "swift": {
         "full name": "Taylor Swift",
