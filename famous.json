@@ -347,5 +347,14 @@
         "place of birth" : "Houston, Texas",
         "occupations" : ["singer", "songwriter", "producer", "director", "businesswoman", "dancer", "actress", "philantropist"],
         "Spouse" : "Jay-Z"
+    },
+    "dubner": {
+        "full name": "Stephen Dubner",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stephen_J._Dubner",
+        "born": 1963,
+        "place of birth": "Duanesburg, New York",
+        "known_for": ["Freakonomics","SuperFreakonomics","Think Like a Freak", "When to Rob a Bank","Freakonomics Radio"],
+        "alive": true,
+        "occupation": "Journalist",
     }
 }
