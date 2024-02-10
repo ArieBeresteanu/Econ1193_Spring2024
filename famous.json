@@ -356,5 +356,14 @@
         "known_for": ["Freakonomics","SuperFreakonomics","Think Like a Freak", "When to Rob a Bank","Freakonomics Radio"],
         "alive": true,
         "occupation": "Journalist"
+    },
+    "miles": {
+        "full name": "Miles Alexander Teller",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miles_Teller",
+        "born": 1987,
+        "place of birth": "Downington, Pennsylvania",
+        "spouse": "Kayleigh Berry",
+        "first movie": "Footloose", 
+        "occupation": "actor"
     }
 }
